@@ -11,9 +11,7 @@ Linkedin: [hashir-tofiq-700541247](https://www.linkedin.com/in/hashir-tofiq-7005
 
 I'm Hashir Tofiq, a Computer Science undergraduate majoring in AI.
 
-I focus on **identifying real problems**, building **AI-powered solutions**, and packaging them into **industry-ready web applications**.
-
-My work lives at the intersection of **Generative AI, RAG systems, and backend engineering**.
+My primary tech stack consists of Langchain, FastAPI, and Python. My favourite projects are the one that involves genAI and RAG.
 
 Recently, I built a **YouTube RAG Web App** where users can paste a YouTube link, watch the video, and **chat with its content** in real time.
 
