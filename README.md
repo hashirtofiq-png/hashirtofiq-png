@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/hashir-tofiq-700541247/">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/">
+  <a href="https://www.instagram.com/hashirtofiqofficial/">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
