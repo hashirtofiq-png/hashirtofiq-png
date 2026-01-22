@@ -50,4 +50,5 @@ Currently, I’m going deeper into:
 ## Contact
 
 - LinkedIn: [hashir-tofiq-700541247](https://www.linkedin.com/in/hashir-tofiq-700541247/)
+- Email: hashirtofiq.official@gmail.com
 - GitHub: https://github.com/hashirtofiq-png
