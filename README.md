@@ -1,19 +1,21 @@
-## Hashir Tofiq
-**AI Engineer | Generative AI**
+## Hashir Tofiq | AI Engineer
+**Generative AI | Langchain | RAG**
 
-I solve real-life problems by building complete AI solutions.
-
-Linkedin: [hashir-tofiq-700541247](https://www.linkedin.com/in/hashir-tofiq-700541247/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/hashir-tofiq-700541247/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 ---
+## About Me👋
 
-## About Me
+I'm Hashir Tofiq, a CS undergrad majoring in AI.
 
-I'm Hashir Tofiq, a Computer Science undergraduate majoring in AI.
-
-My primary tech stack consists of Langchain, FastAPI, and Python. My favourite projects are the one that involves genAI and RAG.
-
-Recently, I built a **YouTube RAG Web App** where users can paste a YouTube link, watch the video, and **chat with its content** in real time.
+My main tech stack is Langchain, FastAPI, and Python. My fav projects are the one that involves genAI and RAG. Recently, I built a **YouTube RAG Web App** where users can paste a YouTube link, watch the video, and **chat with its content** in real time.
 
 Currently, I’m going deeper into:
 - Generative AI applications
