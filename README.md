@@ -10,6 +10,8 @@
   </a>
 </p>
 
+**Portfolio:** https://hashirtofiq-png.github.io/portfolio_website/
+
 ---
 ## About Me👋
 
@@ -21,8 +23,6 @@ Currently, I’m going deeper into:
 - Generative AI applications
 - RAG systems
 - Agentic AI workflows
-
-**Portfolio:** https://hashirtofiq-png.github.io/portfolio_website/
 
 ---
 
